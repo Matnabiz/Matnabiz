@@ -61,10 +61,10 @@
   <p>
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-  &emsp; Computer Engineerign Student <br/><br/>
-  &emsp; Based in <a href="https://en.wikipedia.org/wiki/University_of_Tehran">UT, Tehran</a><br/><br/>
-  &emsp; Reach me anytime: matnabiz@yahoo.com<br/><br/>
-  &emsp; Ask me about anything [here](https://github.com/Mat/Mat/issues)
+***  &emsp; Computer Engineering Student <br/><br/>
+***  &emsp; Based in <a href="https://en.wikipedia.org/wiki/University_of_Tehran">UT, Tehran</a><br/><br/>
+***  &emsp; Reach me anytime: matnabiz@yahoo.com<br/><br/>
+***  &emsp; Ask me about anything [here](https://github.com/Mat/Mat/issues)
   
   </p>
   
