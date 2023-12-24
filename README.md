@@ -61,10 +61,10 @@
   <p>
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-   📧 &emsp; Reach me anytime: Mat.dev@gmail.com<br/><br/>
-   💬 &emsp; Ask me about anything [here](https://github.com/Mat/Mat/issues)
+  &emsp; Computer Engineerign Student <br/><br/>
+  &emsp; Based in <a href="url">UT, Tehran</a><br/><br/>
+  &emsp; Reach me anytime: matnabiz@yahoo.com<br/><br/>
+  &emsp; Ask me about anything [here](https://github.com/Mat/Mat/issues)
   
   </p>
   
