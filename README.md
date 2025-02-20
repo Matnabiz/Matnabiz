@@ -12,7 +12,7 @@
 
  -->
 
- <a href="https://komarev.com/ghpvc/?username=Mat">
+ <a href="https://komarev.com/ghpvc/?username=Matnabiz">
     <img align="right" src="https://komarev.com/ghpvc/?username=Mat&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
   </a>
   
@@ -21,7 +21,7 @@
   
   <!-- Intro  -->
   <h3 align="center">
-          <samp>&gt; Hey There!<b> This is
+          <samp>&gt;<b> This is
                   <b><a target="_blank" href="https://Mat.com">Matin.</a></b>
           </samp>
   </h3>
@@ -31,7 +31,7 @@
     <samp>
       <a href="https://www.google.com/search?q=Matin + Nabizadeh">「 Google Me 」</a>
       <br>
-      「 I am junior developer, based in <b>Iran</b> 」
+       A junior developer, based in <b>Iran</b> 
       <br>
       <br>
     </samp>
@@ -39,10 +39,10 @@
   
   <p align="center">
    <a href="https://Mat.com" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mat" />
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Matnabiz" />
    </a>
    <a href="https://linkedin.com/in/matin-nabizadeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mat"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matnabiz"/>
    </a>
    <!-- <a href="https://dev.to/Mat" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mat" />
