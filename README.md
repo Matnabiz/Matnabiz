@@ -98,7 +98,7 @@
   <br/>
   
   ## Top Open Source -
-  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Matnabiz&repo=Internet-Course-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Matnabiz/web-projects)
+  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Matnabiz&repo=Source-Quantization-Using-Lloyds&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Matnabiz/web-projects)
   [![Data Transmission](https://github-readme-stats.vercel.app/api/pin/?username=Matnabiz&repo=Source-and-Channel-Coding&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Matnabiz/al-folio)
   [![Mat's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Matnabiz&repo=Matnabiz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mat/Mat)
   [![Mat's Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Matnabiz&repo=Matnabiz.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Matnabiz/Matnabiz.github.io)
